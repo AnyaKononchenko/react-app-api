@@ -44,7 +44,7 @@ This application was built using the following technologies:
 - `postServises` - Exports four functions that fetch data from the Rick and Morty API. getCustomData takes an endpoint parameter and returns a promise that resolves to the response of fetching the specified endpoint. The other three functions (getAllCharacters, getAllLocations, getAllEpisodes) return promises that resolve to the responses of fetching the corresponding endpoints for retrieving all characters, locations, and episodes respectively.
 
 ## Deploy link:
-some info
+Check out our [project](https://react-app-api-theta.vercel.app) on your own!
 
 -------------
 ## Contributors
